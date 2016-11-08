@@ -1,2 +1,2 @@
 # Nim-AI-Game
-This is a simple AI simulator for the game called Nim. The objective of the application is to force the player to always make the final move thereby winning over the player.
+It’s a turn based game where both the AI and the human player take turns to remove certain no. of imaginary stones from an array and the one to make the final move loses the game. Nim AI is developed using JAVA; it has modules that allow several simulations with appropriate display of the array, player scores, turns and player statistics with the inclusion of a multiplayer option allowing two human players to compete against each other.
